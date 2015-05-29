@@ -1,3 +1,7 @@
+//
+//  Created by Dennis Weaver on 25/03/2014.
+//
+
 #ifndef PTVTIMETABLE_H
 #define PTVTIMETABLE_H
 

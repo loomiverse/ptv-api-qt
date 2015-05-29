@@ -1,3 +1,7 @@
+//
+//  Created by Dennis Weaver on 25/03/2014.
+//
+
 #include "ptvtimetable.h"
 
 #include <QNetworkAccessManager>
